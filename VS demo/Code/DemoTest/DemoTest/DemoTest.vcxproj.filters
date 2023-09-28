@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\教学">
+      <UniqueIdentifier>{e07ebaef-ab04-4823-a71a-b1a4106734c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\算法教学">
+      <UniqueIdentifier>{56f41ac6-461a-422b-923f-5824b4d0f63f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\教学\运算符重载">
+      <UniqueIdentifier>{5c0f17db-fbd2-40c5-b6d7-64c13b398878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\教学\文件">
+      <UniqueIdentifier>{e8181228-8aab-4b55-9bf8-60834f8c471b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\教学\模板">
+      <UniqueIdentifier>{f06da51a-0dc2-4fb9-9c11-9d50b71c7241}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\教学\PAT">
+      <UniqueIdentifier>{4efa22dd-d345-4200-a01d-6af4410e25da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\教学\STL容器">
+      <UniqueIdentifier>{70bb8a7a-4b8b-4c2a-b6be-128ced6b3c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\教学\常用算法">
+      <UniqueIdentifier>{8ab82824-eab8-4fd9-af8f-0ac20fa6fd59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\教学\案例">
+      <UniqueIdentifier>{77805e65-5a53-4dc6-bb8e-33becf9f43ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="选择结构.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="全局变量.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="002-NlogN的排序.cpp">
+      <Filter>源文件\算法教学</Filter>
+    </ClCompile>
+    <ClCompile Include="归并排序.cpp">
+      <Filter>源文件\算法教学</Filter>
+    </ClCompile>
+    <ClCompile Include="小和问题.cpp">
+      <Filter>源文件\算法教学</Filter>
+    </ClCompile>
+    <ClCompile Include="指针⭐.cpp">
+      <Filter>源文件\算法教学</Filter>
+    </ClCompile>
+    <ClCompile Include="逆序对×.cpp">
+      <Filter>源文件\算法教学</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.cpp">
+      <Filter>源文件\算法教学</Filter>
+    </ClCompile>
+    <ClCompile Include="常量引用.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="类和对象.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="circle.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="构造函数.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="初始化列表.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="类对象作为类成员.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="静态成员变量.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="c++对象模型和this指针.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="const修饰成员函数.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="友元.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="运算符重载.cpp">
+      <Filter>源文件\教学\运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="重载关系运算符和函数调用运算符.cpp">
+      <Filter>源文件\教学\运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="递增运算符重载.cpp">
+      <Filter>源文件\教学\运算符重载</Filter>
+    </ClCompile>
+    <ClCompile Include="继承.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="多态.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="虚析构和纯虚析构.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="多态案例.cpp">
+      <Filter>源文件\教学</Filter>
+    </ClCompile>
+    <ClCompile Include="写文件.cpp">
+      <Filter>源文件\教学\文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制.cpp">
+      <Filter>源文件\教学\文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="普通函数和函数模板的区别.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="模板重载.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板基本语法.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板对象做函数参数.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板做继承.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板成员函数类内声明类外实现.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板的分文件编写.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板和友元.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板的案例-数组类封装.cpp">
+      <Filter>源文件\教学\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1002 polonomials.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1002-polonomials.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1003-emergency.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1003-emergency-sen.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1004-叶子节点.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1005哈希，字符输入.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1005-总和-int版本-12%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1006-Maxmiun Subsequence Sum.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1006-sign in sign out.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1007-X-10%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1007-动态规划找最大子序列和.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1008-elevator.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1009-25%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1009-多项式乘法-20%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1010-radix 22%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1010-radix.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1011-世界杯.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1011-世界杯竞猜.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1012-the best rank.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1013-Battle Over Cities.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1013-Battle Over Cities-0%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1014-Waiting in Line.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1014-Waiting in Line-6%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1015-√-Reverse Prime.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1015-Reverse Prime.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1016-Phone Bills-15%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1017-Quereing at Bank.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1017-Queueing at Bank-6%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1018-Public Bike Management.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1019-General Palindromic Number.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1020-Three Traversals.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1021-Deepest Root.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1022-Digital Library哈希表.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1023-Have Fun with Numbers.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1024-Palindromic Number-18%27.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1025 PAT Ranking-25.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1026-Table Tennis.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1027-colors in mars.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1028-List-Sorting-5分37.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1029 Median.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1030-Travel Plan.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1031-helloworld for U.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1032 Sharing.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1033 To Fill or Not to Fill.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1034-Head of gang.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1035-password-17.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1036-Boys and Girls.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1037-Magic Coupon.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1038-0-Recover the Smallest Number.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1039-Course List for Student.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1040-Longest Symmetric String.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1041-Be unique.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1042-Shuffling Machine.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1043- Is It a Binary Search Tree.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1044-Shopping in Mars.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1045-Favorite Color Stripe.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1046-Shortest Distance.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1047-Student List for Course.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1048-Find Coins.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1049-Counting Ones.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1050-String Subtration.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1051-Pop Sequence.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1052-Linked List Sorting.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1053-Path of Equal Weigh.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1054-The Dominant Color.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1055-The World%27s Richest.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1056-Mice and Rice.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1057-Stack.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1058-A+B in Hogwarts.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1059-Prime Factors.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1060-Are They Equal.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1061-Dating.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1062 Talent and Virtue.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1063 Set Similarity.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1064 Complete Binary Serach Tree.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1065 A+Band C.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1067 Sort with Swap.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1068 Find More Coins.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1069- The Black Hole of Numbers.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1070 - Mooncake.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1071 Speech Pattern.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1072-Gas Station.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1073-Science Notation.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1074 Reversing Linked List.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1075-PAT Judge.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1076 Forward on Weibo.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1077-Kuchiguse.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1078-Hashing.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1079-Total Sales of Supply Chain.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1081 Rational Sum.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1082 Read Number in Chinese.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1083-List Grades.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1084 Broken Keyboard.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1085 Perfect sequence.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="1086 Tree Traversals.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="2059-龟兔赛跑.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="DemoTest.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU-2000——2009.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="背包问题.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="杭电真题-超大数求和.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="算法教学.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="题目讲解.cpp">
+      <Filter>源文件\教学\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="string容器.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="vector容器.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="deque容器.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="实战1评委打分.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="stack和queue.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="list容器.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="案例2 员工分组.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="pair创建.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="set容器.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="函数对象的基本使用.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="谓词.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="内建函数对象.cpp">
+      <Filter>源文件\教学\STL容器</Filter>
+    </ClCompile>
+    <ClCompile Include="遍历算法.cpp">
+      <Filter>源文件\教学\常用算法</Filter>
+    </ClCompile>
+    <ClCompile Include="查找算法.cpp">
+      <Filter>源文件\教学\常用算法</Filter>
+    </ClCompile>
+    <ClCompile Include="常用排序算法.cpp">
+      <Filter>源文件\教学\常用算法</Filter>
+    </ClCompile>
+    <ClCompile Include="常用拷贝和替换算法.cpp">
+      <Filter>源文件\教学\常用算法</Filter>
+    </ClCompile>
+    <ClCompile Include="常用算术生成算法.cpp">
+      <Filter>源文件\教学\常用算法</Filter>
+    </ClCompile>
+    <ClCompile Include="常用集合算法.cpp">
+      <Filter>源文件\教学\常用算法</Filter>
+    </ClCompile>
+    <ClCompile Include="职工管理系统.cpp">
+      <Filter>源文件\教学\案例</Filter>
+    </ClCompile>
+    <ClCompile Include="演讲比赛系统.cpp">
+      <Filter>源文件\教学\案例</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyArray.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
