@@ -1,0 +1,3 @@
+data: interval:2 stuId:1 stuName:1 roomId:2 status:0
+data: interval:1 stuId:4 stuName:º«É­ roomId:1 status:2
+data: interval:1 stuId:3 stuName:ÀîËÄ roomId:3 status:-1
